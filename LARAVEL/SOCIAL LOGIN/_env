@@ -1,0 +1,7 @@
+
+
+
+FACEBOOK_ID=2156744624579603
+FACEBOOK_SECRET=8f9ec7da14d86e4573bddab9eb10da81
+FACEBOOK_REDIRECT=http://localhost/questionanswer/public/login/facebook/callback
+
